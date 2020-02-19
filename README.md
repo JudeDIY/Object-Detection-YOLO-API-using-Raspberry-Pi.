@@ -6,9 +6,4 @@ ISO File:
 https://drive.google.com/drive/folders/1g0RadTgJ1YhrSGR-t9rKFNx6MT9T-6Gd?usp=sharing
 
 
-cd darknet
-./darknet detector test cfg/voc.data cfg/tiny-yolo-voc.cfg tiny-yolo-voc.weights camera/cam.jpg
-  
-
-cd darknet/camera
-raspistill -o cam.jpg
+Refer YOLO Detection File to how to run it.
